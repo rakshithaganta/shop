@@ -1,5 +1,3 @@
 # shop
 
-This is my first edit
-my second commit rg
-adding extra line
+This is a test project to simulate shopping cart application
